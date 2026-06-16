@@ -1,0 +1,14 @@
+[2026-06-15 19:47:32.888426] Created file :testy.txt
+[2026-06-15 19:48:26.748989] Update file: testy.txt
+[2026-06-15 19:59:43.972874] Created file :text_file.txt
+[2026-06-15 20:00:54.064520] Read file :text_file.txt
+[2026-06-15 20:02:48.849106] Update file: text_file.txt
+[2026-06-15 20:05:01.020031] Update file: text_file.txt
+[2026-06-15 20:05:41.512825] Read file :text_file.txt
+[2026-06-15 20:11:36.296777] Renamed text_file.txttofile_text.txt
+[2026-06-15 20:14:46.258358] Moved file_text.txt to ../src/test.txt
+[2026-06-15 20:17:05.399834] Deleted file: ../src/test.txt
+[2026-06-15 20:30:01.128045] Read file :testy.txt
+[2026-06-15 20:32:23.484256] Update file: text.txt
+[2026-06-15 20:32:53.910991] Read file :text.txt
+[2026-06-15 20:34:19.509926] Read file :../data/simple.txt

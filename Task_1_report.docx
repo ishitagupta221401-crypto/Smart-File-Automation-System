@@ -1,0 +1,95 @@
+SMART FILE AUTOMATION SYSTEM
+
+Task 1: Python File Handling & Automation
+
+Submitted By:
+Ishita Gupta
+
+Organization:
+Alfido Tech Internship Program
+
+Technology:
+Python
+
+Date:
+June 2026
+
+ABSTRACT
+The Smart File Automation System is a Python-based application developed to automate file management operations. The project demonstrates file handling, CSV processing, activity logging, exception handling, and modular programming concepts.
+
+OBJECTIVES
+• Understand Python file handling.
+• Implement file automation operations.
+• Work with CSV files.
+• Apply exception handling.
+• Maintain activity logs.
+
+FEATURES IMPLEMENTED
+1. Create File
+2. Read File
+3. Write File
+4. Rename File
+5. Move File
+6. Delete File
+7. Read CSV File
+8. Activity Logging
+
+TECHNOLOGIES USED
+• Python
+• OS Module
+• SHUTIL Module
+• CSV Module
+• Datetime Module
+• Visual Studio Code
+
+PROJECT STRUCTURE
+Smart_File_Automation_System
+│
+├── src
+├── data
+├── logs
+├── output
+├── screenshots
+├── docs
+├── README.md
+└── requirements.txt
+
+
+
+Figure 1: File Creation Operation 
+
+ 
+
+
+Figure 2: File Reading operation
+ 
+
+Figure 3: File Writing Operation
+ 
+
+
+Figure 4: File Renaming Operation
+ 
+
+
+Figure 5 File Moving Operation
+ 
+
+
+
+Figure 6: File Deleting Operation
+ 
+
+Figure 7: Reading CSV File Operation 
+ 
+
+
+Figure 8: Exit Operation
+ 
+
+RESULTS
+The Smart File Automation System was successfully tested for all implemented functionalities. The application correctly performed file creation, reading, writing, renaming, moving, deletion, CSV file processing, and activity logging. All operations were executed successfully with proper exception handling.
+
+
+CONCLUSION
+The Smart File Automation System successfully automates common file management operations using Python. The project enhanced practical understanding of file handling, modular programming, exception handling, and logging mechanisms.
